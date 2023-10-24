@@ -1,1 +1,2 @@
 # linear-regression
+The goal of this project is to predict fuel consumption using linear regression. The dataset is also provided. Relevant features were chosen manually using correlation matrix between given features and output. For categorical features one hot encoding was used. Dataset was divided into training and test subsets and linear regression was implemented manually and then compared to linear regression from sklearn library.
